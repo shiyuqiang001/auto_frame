@@ -1,0 +1,18 @@
+URL: http://www.baidu.com
+
+api: http://wthrcdn.etouch.cn/weather_mini?citykey=101010100
+
+log:
+    file_name: test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
+mail:
+    title: 师宇强百度搜索测试报告
+    message: 这是今天的测试报告，请查收！
+    receiver: 1537132687@qq.com
+    server: smtp.163.com
+    sender: 17600683448@163.com
+    password: IWHFEKVKVZGTNWHL
