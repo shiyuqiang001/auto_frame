@@ -27,3 +27,6 @@
 - file_reader模块 封装读取yml文件、xls文件的方法
 - generator模块 封装faker数据生成器
 - log模块 封装日志
+
+6、vevn文件夹
+    项目的运行环境文件
